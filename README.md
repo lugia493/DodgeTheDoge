@@ -4,7 +4,7 @@ HackPoly 2018 Meme-Based Game Project
 TO RUN THE GAME
 1. Download all files and put them under one file folder
 2. Open DodgeTheDodge.py under CodeRunner or Python IDLE with pygame library
-3. Run the .py files
+3. Run the .py file
 4. Once .py file is running, the game window will appear, make sure to CLICK the game window. 
 5. Controls are Left Key and Right Key, enjoy!
 
