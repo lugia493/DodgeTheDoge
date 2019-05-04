@@ -1,3 +1,5 @@
+![Capture](https://user-images.githubusercontent.com/36168832/57184196-a8430a80-6e6c-11e9-9376-513a84f3d336.PNG)
+
 # DodgeTheDoge
 HackPoly 2018 Meme-Based Game Project
 
